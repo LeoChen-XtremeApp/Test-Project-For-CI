@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  title = 'Test-Project-For-CI';
+  title = 'Test-Pro';
 
 }
